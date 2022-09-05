@@ -1,0 +1,16 @@
+.logindiv {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loginformdiv {
+  width: 50vw;
+  height: 50vh;
+  background-color: #80c2ce;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 5px 5px #888888;
+}
